@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
-    <element extends="incident" label="Incident Replica" max_length="40" name="x_58872_needit_incident_replica" sizeclass="505" type="collection">
-        <element attributes="edge_encryption_enabled=true" label="Managers Email Id" max_length="40" name="u_managers_email_id" type="string"/>
-    </element>
-</database>
